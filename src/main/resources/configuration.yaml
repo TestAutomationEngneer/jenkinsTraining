@@ -1,0 +1,18 @@
+globals:
+  environment: env_test
+  #  environment: env_int
+
+  browser: chrome
+  screenshot: Yes
+  headless: No
+  timeout: 60
+
+env_int:
+  url: https://www.selenium.dev/
+  name: int
+  title: Selenium
+
+env_test:
+  url: https://logback.qos.ch/
+  name: test
+  title: Logback Home
