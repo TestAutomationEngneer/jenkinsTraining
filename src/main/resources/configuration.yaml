@@ -1,6 +1,6 @@
 globals:
-  environment: env_test
-  #  environment: env_int
+#  environment: env_test
+  environment: env_int
 
   browser: chrome
   screenshot: Yes
@@ -11,8 +11,10 @@ env_int:
   url: https://www.selenium.dev/
   name: int
   title: Selenium
+#  rating: 10
 
 env_test:
   url: https://logback.qos.ch/
   name: test
   title: Logback Home
+#  rating: 66
