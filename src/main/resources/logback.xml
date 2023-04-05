@@ -24,7 +24,7 @@
     <logger name="com.sii.tests">
         <appender-ref ref="FILE"/>
     </logger>
-    <root level="ALL">
+    <root level="INFO">
         <appender-ref ref="STDOUT"/>
         <appender-ref ref="FILE"/>
     </root>
