@@ -12,7 +12,7 @@
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <logback.version>1.2.3</logback.version>
+        <logback.version>1.4.11</logback.version>
         <logback.jakcson.verion>0.1.5</logback.jakcson.verion>
         <logstash.version>6.4</logstash.version>
 

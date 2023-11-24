@@ -12,7 +12,7 @@ import java.io.IOException;
 public class BaseTest {
 
     protected static WebDriver driver;
-    protected static Logger logger = LoggerFactory.getLogger("BaseTest.class");
+    protected static Logger logger = LoggerFactory.getLogger(BaseTest.class);
     private static BrowserEnvironment browserEnvironment;
 
     @BeforeAll
